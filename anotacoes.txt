@@ -1,3 +1,14 @@
 Aula 1:
 ------
+- Falamos de identificadores (nomes das variaveis)
+- Comentarios;
+- Variaveis;
+- Tipos de dados padrão em Python:
+    - Numeros
+    - Listas
+    - Tuplas
+    - Dicionarios
+    - Sets
+
+
 parei 4.5 valores booleanos
