@@ -16,3 +16,4 @@ Aula 1:
 Aula 2
 ======
  - Falar sobre format strings
+ - Hoje
