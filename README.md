@@ -1,4 +1,4 @@
-Repositório da turma 2 de Python 3, 2018 da JCAVI treinamentos em T.I.
+Repositório da turma 3, módulo 1 de Python 3, 2018 da JCAVI treinamentos em T.I.
 ======================================================================
 
 Utilizaremos este repositório para salvar os exercíos feitos em
