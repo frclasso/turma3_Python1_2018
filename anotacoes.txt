@@ -11,4 +11,8 @@ Aula 1:
     - Sets
 
 
-parei 4.5 valores booleanos
+***parei 4.5 valores booleanos
+
+Aula 2
+======
+ - Falar sobre format strings
