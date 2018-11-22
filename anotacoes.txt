@@ -15,5 +15,9 @@ Aula 1:
 
 Aula 2
 ======
- - Falar sobre format strings
- - Hoje
+ - Falar sobre format strings  - ok
+ - finalizamos cap 06
+
+Aula 3
+------
+- Cap 06
