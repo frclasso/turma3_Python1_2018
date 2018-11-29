@@ -16,8 +16,9 @@ Aula 1:
 Aula 2
 ======
  - Falar sobre format strings  - ok
- - finalizamos cap 06
+ - finalizamos Cap 05
 
 Aula 3
 ------
-- Cap 06
+- Cap 06 -
+Atividade - calculadora, menu (switch case)
