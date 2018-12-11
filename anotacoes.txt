@@ -22,3 +22,12 @@ Aula 3
 ------
 - Cap 06 -
 Atividade - calculadora, menu (switch case)
+
+- Aula 04 -
+-----------
+Cap 08 - Numeros
+_ desenvolver um gerador de senhas usando random
+_ desenvolver calculadora basica
+_ desenvoler calculadora avancada funcoes trigonometricas, modulo math
+
+- Aula 5
