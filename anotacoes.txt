@@ -31,3 +31,7 @@ _ desenvolver calculadora basica
 _ desenvoler calculadora avancada funcoes trigonometricas, modulo math
 
 - Aula 5
+--------
+Cap 09 - strings
+iniciamos Cap 10 - listas
+
