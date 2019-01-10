@@ -9,7 +9,7 @@ https://docs.python-guide.org/scenarios/imaging/
 
 # criar listas ou dicionario de produtos
 # inserir imagens
-# persistencia de dados / salvar (.txt, .csv)
+# persistencia de dados / salvar (.txt, .csv, sql, excel)
 
 """Dados dos produtos:
 ID
@@ -24,3 +24,6 @@ valor
 # atualizacao dos existentes
 # saida de produtos
 # verificar estoque
+
+
+# interface grafica, dektop( tkinter) ou web(Django)

@@ -33,7 +33,12 @@ def caller_id(numeroProcurado):
     for name, num in rolodex.items():
         if num == numeroProcurado:
             return name
-
+telefones = {
+    'Fabio':'9999-8888',
+    'Juliana':'9999-9876',
+    'Giovanna':'99887-4546',
+    'Erick':'9987-3455'
+}
 
 #print(rolodex['David'])
 #print(caller_id((5552603, 5556060)))
@@ -47,6 +52,20 @@ def newCaller():
     return rolodex
 
 newCaller()
+
+
+def delContato():
+    pass
+
+def verificaContatos():
+    """Quantos contato temos?"""
+    pass
+
+
+def limpaAgenda():
+    """Deleta todos dos contatos da ageanda"""
+    return rolodex.clear()
+
 
 with open('rolodex.txt', 'w') as f:
     for nome, telefone in rolodex.items():
