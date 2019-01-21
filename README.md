@@ -1,5 +1,5 @@
-Repositório da turma 3, módulo 1 de Python 3, 2018 da JCAVI treinamentos em T.I.
-======================================================================
+Repositório da turma 3, módulo 1 de Python 3, 2018 
+==================================================
 
 Utilizaremos este repositório para salvar os exercíos feitos em
 sala de aula bem como projetos e atividades em grupo.
@@ -46,7 +46,7 @@ Vamos padronizar da seguinte maneira:
 --------------
 
 
-![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")
+![Image](https://github.com/frclasso/turma1_Python_Modulo2_2019/blob/master/python.png)
 
 
 Contatos: frclasso@gmail.com
