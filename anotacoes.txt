@@ -41,6 +41,8 @@ Cap 12 Dicionarios
 Cap 13 - Date e time
 
 - Aula 07
+---------
+Cap 14 - funcoes - 14.12 - iteradores
 
 
 
