@@ -48,9 +48,6 @@ Vamos padronizar da seguinte maneira:
 
 ![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")
 
-https://www.jcavitreinamentos.com.br/
-
-https://www.facebook.com/jcavitreinamentos/
 
 Contatos: frclasso@gmail.com
 
