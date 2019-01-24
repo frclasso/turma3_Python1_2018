@@ -10,4 +10,4 @@ def info(x,y, *args):
 
 # chamando a funcao
 #info(10)
-info(20, 30, 40, 50, 60)
+info(20, 30, 40, 50, 60, 70, 80)

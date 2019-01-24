@@ -6,7 +6,7 @@ def info(nome, idade):
     print('Idade: ', idade)
 
 # chamando
-info('Fabio', 44)
+#info(44, 'Fabio')
 
 
 info(idade=38, nome='Juliana')  # argumentos de palavra chave,

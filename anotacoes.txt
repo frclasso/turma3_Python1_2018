@@ -44,5 +44,9 @@ Cap 13 - Date e time
 ---------
 Cap 14 - funcoes - 14.12 - iteradores
 
+- Aula 08 -  terminamos funções e começamos a escrever o programa "menu.py"
+
+- Aula 09
+
 
 

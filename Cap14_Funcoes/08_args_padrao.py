@@ -6,6 +6,4 @@ def info(nome, idade, linguagem='Python'):
     print('Idade: ', idade)
     print('Linguagem favorita: ', linguagem)
 
-info(idade=44, nome='Fabio')
-print()
-info('Fabio', 44, 'C++')
+print(info('Fabio', 44, 'Julia'))

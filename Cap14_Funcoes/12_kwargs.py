@@ -13,7 +13,12 @@ def main():
     x = dict(SC='Greve', SP="Paralisacao", RJ='Corrupcao',
              PR='Lava-jato')
     people(**x)
-    
+
+    # people(SC='Greve', SP="Paralisacao", RJ='Corrupcao',
+    #        PR='Lava-jato')
+
+
 
 if __name__ == '__main__':
     main()
+
