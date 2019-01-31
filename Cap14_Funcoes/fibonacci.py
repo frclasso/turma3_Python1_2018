@@ -3,6 +3,7 @@
 # Fibonacci
 
 def fibo(n):
+    '''Calcula sequencia fibonacci'''
     result = []
     a,b = 0,1
     while a < n:
@@ -10,7 +11,7 @@ def fibo(n):
         a,b = b, a + b
     print()
 
-fibo(6)
+#fibo(6)
 
 # def fibo2(n):
 # #     result = []
