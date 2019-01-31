@@ -14,10 +14,19 @@ Organização do curso:
 --------------------
 + Cap 03 [Elementos de sintaxe basica](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap03_elementos_de_sintaxe_basica)
 + Cap 04 [Tipos variáveis](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap04_variaveis) 
-+ Cap 05 [Operadore Básicos]()
-+ Cap 06 [Estruturas de decisão]()
-+ Cap 07 [Estruturas de repetição]()
-+ Cap 08 [Números]()
++ Cap 05 [Operadore Básicos](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap05_Operadores_Basicos)
++ Cap 06 [Estruturas de decisão](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap06_estruturas_decisao)
++ Cap 07 [Estruturas de repetição](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap07_estruturas_repeticao)
++ Cap 08 [Números](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap08_numeros)
++ Cap 09 [Strings](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap09_strings)
++ Cap 10 [Listas](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap10_listas)
++ Cap 11 [Tuplas](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap11_tuplas)
++ Cap 12 [Dicionarios](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap12_dicionarios)
++ Cap 13 [Date&Time](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap13_Date%26Time)
++ Cap 14 [Funções](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap14_Funcoes)
++ Cap 15 [Módulos](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap15_modulos)
++ Cap 16 [Arquivos](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap16_Files)
++ Cap 17 [Tratamento de Exceções]()
 
 Apostila
 ---------

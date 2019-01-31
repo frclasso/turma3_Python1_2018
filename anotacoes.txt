@@ -48,9 +48,15 @@ Cap 14 - funcoes - 14.12 - iteradores
 =========
 terminamos funções e começamos a escrever o programa "menu.py"
 
+ - Aula 09
+ =========
+ Cap 15 - Modulos
 
-- Aula 09
+- Aula 10
 =========
+Capitulo 16 - Iniciamos o capitulo 16 módulo,
+16.2 - Abrindo e fechando arquivos
+
 
 
 
