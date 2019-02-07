@@ -60,9 +60,20 @@ Capitulo 16 - Iniciamos o capitulo 16 módulo,
 
 - Aula 11
 =========
+Finalizamos o Cap16 - Arquivos(Files I.O.)
 
+- Abordamos principais recursos do módulo "os", como: path, mkdir, listdir, makedirs,
+chdir, remove, rename, rmdir etc;
 
+- Usamos a biblioteca urllib.request;
+-Principais programas criados:
+    copia_conteudo.py
+    copia_imagem.py
+    html_writer.py
+    manipulador_de_imagem.py
+    backup_software.py
 
-
+Aula 12
+=======
 
 
