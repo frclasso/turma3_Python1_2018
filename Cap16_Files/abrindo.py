@@ -2,13 +2,12 @@
 
 # abrindo
 file = open('teste.txt', 'w')
-# print(file.name)
-# print(file.mode)
-# print(file.closed)
+print(file.name)
+print(file.mode)
+print(file.closed)
 
 # escrevendo
 file.write('Uma linha')
-
 file.write('\nSegunda linha')
 file.write('\nMais uma linha')
 file.write('\nQuarta linha')

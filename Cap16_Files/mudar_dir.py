@@ -5,12 +5,10 @@
 import os
 
 
-#print(os.getcwd())
-
-#/Users/fabio/Desktop/turma3_Python1_2018/Cap16_Files
+#print(os.getcwd()) #/Users/fabio/Desktop/turma3_Python1_2018/Cap16_Files
 
 os.chdir('/Users/fabio/Desktop/turma3_Python1_2018/'
-         'Cap16_Files/back1') # change dir
+         'Cap16_Files/back_up_imgs') # change dir
 
 
 print(os.getcwd())

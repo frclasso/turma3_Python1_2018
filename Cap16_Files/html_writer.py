@@ -2,12 +2,21 @@
 
 
 import urllib.request
-page = urllib.request.urlopen('https://docs.python.org/')
 
-with open('arquivo.html', 'w') as file:
+my_url = input('Digite uma url: ')
+page = urllib.request.urlopen(my_url)
+
+arquivo_html = input('Digite o nome do arquivo: ')
+with open(arquivo_html, 'w') as file:
     for line in page:
         file.write(str(line, encoding='utf-8'))
 
 
 print('Done..')
+
+# definir uma funcao url vamos abrir
+# definir uma funcao para nomear o arquivo
+
+
+
 

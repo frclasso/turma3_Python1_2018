@@ -4,7 +4,7 @@
 
 import os
 
-dirs = os.listdir('/Users/fabio/Desktop/turma3_Python1_2018/Cap15_modulos')
-# for file in dirs:
-#     print(file)
+dirs = os.listdir('/Users/fabio/Desktop/turma3_Python1_2018/Cap16_Files')
+for file in dirs:
+    print(file)
 
