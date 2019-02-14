@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 
-
-
-from salvaDados import salvar
+from salvaDados import *
+#from salvaDados import salvar
 from deletaCadastro import deleta_cadastro
-from atuaizaCadastro import atualiza_cadastro
+from atualizaCadastro import *
 from cadastro import cadastro_clientes
 
 def lista_clientes(): # dentro de clientes.csv
     try:
-        with open('clientes.txt', 'a') as file:
-            file.read()
+        with open('clientes.txt', 'r') as file:
+            for line in file:
+                print(line, end='')
 
     except IOError: print('Arquivo nao encontrado')
     opcao()
@@ -30,6 +30,7 @@ def opcao():
                     4 para listar os clientes cadastrados
                     5 para gravar dados
                     0 para Sair do programa: '''))
+        print()
         if menu == 0:
             break
         if menu == 1:

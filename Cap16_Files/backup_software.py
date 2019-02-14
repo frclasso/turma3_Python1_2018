@@ -32,18 +32,18 @@ def backup():
         print("Falha ao realizar backup")
 
 
-def timer():
-    while True:
-        seconds = 4  # QUANTIDADE DE SEGUNDOS PARA O PROXIMO BACKUP
-        while seconds != 0:
-            print(f"Proximo Backup em  {seconds} segundos ...")  # comentar, isso é teste
-            time.sleep(4) # 4 seguns=dos
-            seconds -=1
-        print('Feito...')
+# def timer():
+#     while True:
+#         seconds = 4  # QUANTIDADE DE SEGUNDOS PARA O PROXIMO BACKUP
+#         while seconds != 0:
+#             print(f"Proximo Backup em  {seconds} segundos ...")  # comentar, isso é teste
+#             time.sleep(4) # 4 seguns=dos
+#             seconds -=1
+#         print('Feito...')
 
 
 def main():
-    timer()
+    #timer()
     backup()
 
 
