@@ -76,5 +76,8 @@ chdir, remove, rename, rmdir etc;
 Aula 12
 =======
 Fim Cap 17 - tratamento de excecoes
+-  Copiei o arquivo menu (ATIVDADES) para Cap17-Exceptions > projeto 1 , para tratar
+as exceções encontradas.
 
-
+Aula 13
+=======

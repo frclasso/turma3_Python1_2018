@@ -1,13 +1,19 @@
 
 
-# variavel de pesquisa
-
 def atualiza_cadastro():
     try:
-        with open('clientes.txt', 'a') as file:
-            for dados in file:
-                file.readlines()
-    except IOError:
-        print('Arquivo nao encontrado')
+        fh = open('clientes.txt', 'r')
+        clientes = []
 
-    print('Alterar cadastro')
+        for line in fh.readlines():
+            clientes.append(line)
+
+        for n, cliente in enumerate(clientes):
+            print(n, cliente,end='')
+        #print(clientes[0])
+        fh.close()
+    except FileNotFoundError:
+        print('Arquivo não encontrado')
+        print()
+
+atualiza_cadastro()

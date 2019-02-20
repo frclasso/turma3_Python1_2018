@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 
-from salvaDados import *
-#from salvaDados import salvar
+from salvaDados import salvar
 from deletaCadastro import deleta_cadastro
-from atualizaCadastro import *
+from atualizaCadastro import atualiza_cadastro
 from cadastro import cadastro_clientes
 
 def lista_clientes(): # dentro de clientes.csv
     try:
-        with open('clientes.txt', 'r') as file:
-            for line in file:
-                print(line, end='')
+        fh = open('clientes.txt', 'r')
+        clientes = []
 
-    except IOError: print('Arquivo nao encontrado')
+        for line in fh.readlines():
+            clientes.append(line)
+
+        for n, cliente in enumerate(clientes):
+            print(n, cliente,end='')
+    except FileNotFoundError:
+        print('Arquivo nao encontrado')
     opcao()
-
-
-clientes = []  # salva os dados cadastrados temporariamente
-
 
 
 def opcao():
