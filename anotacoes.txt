@@ -1,0 +1,83 @@
+Aula 1:
+------
+- Falamos de identificadores (nomes das variaveis)
+- Comentarios;
+- Variaveis;
+- Tipos de dados padrão em Python:
+    - Numeros
+    - Listas
+    - Tuplas
+    - Dicionarios
+    - Sets
+
+
+***parei 4.5 valores booleanos
+
+Aula 2
+======
+ - Falar sobre format strings  - ok
+ - finalizamos Cap 05
+
+Aula 3
+------
+- Cap 06 -
+Atividade - calculadora, menu (switch case)
+
+- Aula 04 -
+-----------
+Cap 08 - Numeros
+_ desenvolver um gerador de senhas usando random
+_ desenvolver calculadora basica
+_ desenvoler calculadora avancada funcoes trigonometricas, modulo math
+
+- Aula 5
+--------
+Cap 09 - strings
+iniciamos
+
+- Aula 06
+Cap 10 - listas
+Cap 12 Dicionarios
+Cap 13 - Date e time
+
+- Aula 07
+---------
+Cap 14 - funcoes - 14.12 - iteradores
+
+- Aula 08
+=========
+terminamos funções e começamos a escrever o programa "menu.py"
+
+ - Aula 09
+ =========
+ Cap 15 - Modulos
+
+- Aula 10
+=========
+Capitulo 16 - Iniciamos o capitulo 16 módulo,
+16.2 - Abrindo e fechando arquivos
+
+
+- Aula 11
+=========
+Finalizamos o Cap16 - Arquivos(Files I.O.)
+
+- Abordamos principais recursos do módulo "os", como: path, mkdir, listdir, makedirs,
+chdir, remove, rename, rmdir etc;
+
+- Usamos a biblioteca urllib.request;
+-Principais programas criados:
+    copia_conteudo.py
+    copia_imagem.py
+    html_writer.py
+    manipulador_de_imagem.py
+    backup_software.py
+
+Aula 12
+=======
+Fim Cap 17 - tratamento de excecoes
+-  Copiei o arquivo menu (ATIVDADES) para Cap17-Exceptions > projeto 1 , para tratar
+as exceções encontradas.
+
+Aula 13
+=======
