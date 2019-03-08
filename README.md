@@ -26,7 +26,8 @@ Organização do curso:
 + Cap 14 [Funções](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap14_Funcoes)
 + Cap 15 [Módulos](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap15_modulos)
 + Cap 16 [Arquivos](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap16_Files)
-+ Cap 17 [Tratamento de Exceções]()
++ Cap 17 [Tratamento de Exceções](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap17-Exceptions)
++ Cap 18 [Extras - Introdução a Data Science](https://github.com/frclasso/turma3_Python1_2018/tree/master/Cap18-Extras)
 
 Apostila
 ---------
