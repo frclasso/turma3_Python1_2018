@@ -44,14 +44,19 @@ extras
 
 - Subdiretório com atividades extras, além da apostila.
 
- 
-Commitando códigos
-------------------
 
-Vamos padronizar da seguinte maneira:
 
-- Salvem seus arquivos no diretório correspondente, no formato **nome_arquivo_nome_do_usuario.py**
-- Exemplo: **teste_Fabio.py**
+Alunos
+------
+Marcelo Rivadavia
+Marcelo Caon
+Mauricio Giacomolli
+Renato Sarda
+Sandro
+Rubens
+
+
+
 
 --------------
 
